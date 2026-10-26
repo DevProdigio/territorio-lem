@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://devprodigio.github.io/territorio-lem/sitemap.xml
